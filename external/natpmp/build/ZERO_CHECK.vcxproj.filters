@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adri\Desktop\libnatpmp\build\CMakeFiles\0fea7f543905f2e5d72614a97d56bae0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E32065C-AD51-3C63-83FA-025C06AA41ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

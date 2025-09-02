@@ -1,0 +1,5 @@
+C:/Users/adri/Desktop/libnatpmp/build/CMakeFiles/natpmp.dir
+C:/Users/adri/Desktop/libnatpmp/build/CMakeFiles/natpmpc.dir
+C:/Users/adri/Desktop/libnatpmp/build/CMakeFiles/testgetgateway.dir
+C:/Users/adri/Desktop/libnatpmp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/adri/Desktop/libnatpmp/build/CMakeFiles/ZERO_CHECK.dir

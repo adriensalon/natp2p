@@ -1,0 +1,10 @@
+^C:\USERS\ADRI\DESKTOP\LIBNATPMP\BUILD\CMAKEFILES\0FEA7F543905F2E5D72614A97D56BAE0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/adri/Desktop/libnatpmp -BC:/Users/adri/Desktop/libnatpmp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/adri/Desktop/libnatpmp/build/natpmp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

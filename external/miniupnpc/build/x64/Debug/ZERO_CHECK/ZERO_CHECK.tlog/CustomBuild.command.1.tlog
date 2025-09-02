@@ -1,0 +1,10 @@
+^C:\USERS\ADRI\DESKTOP\UPNPC\BUILD\CMAKEFILES\E1B4ABB2A945DDD92CBDC0AF3C4F6C72\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/adri/Desktop/upnpc -BC:/Users/adri/Desktop/upnpc/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/adri/Desktop/upnpc/build/miniupnpc_static_only.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

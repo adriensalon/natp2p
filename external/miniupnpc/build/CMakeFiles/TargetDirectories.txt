@@ -1,0 +1,3 @@
+C:/Users/adri/Desktop/upnpc/build/CMakeFiles/miniupnpc.dir
+C:/Users/adri/Desktop/upnpc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/adri/Desktop/upnpc/build/CMakeFiles/ZERO_CHECK.dir

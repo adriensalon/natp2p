@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.fwd": "cpp",
+        "miniupnpc.h": "c",
+        "*.in": "cpp"
+    }
+}
